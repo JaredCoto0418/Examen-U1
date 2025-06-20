@@ -1,7 +1,5 @@
 
-# ExamenU1
-
-## Descripción
+# ExamenUnidad 1
 
 Este proyecto corresponde al **Examen Unidad 1** para la asignatura de Lenguajes de Programación.  
 Incluye un sistema **CRUD de Roles** desarrollado en React, con una API REST simulada usando JSON Server.

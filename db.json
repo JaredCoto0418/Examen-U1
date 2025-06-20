@@ -1,0 +1,54 @@
+{
+  "roles": [
+    {
+      "nombre": "Adminedcdec",
+      "descripcion": "Acceso total",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Usuario",
+      "descripcion": "Acceso limitado"
+    },
+    {
+      "nombre": "dede",
+      "descripcion": "dede",
+      "id": 3
+    },
+    {
+      "nombre": "edwed",
+      "descripcion": "ede",
+      "id": 4
+    },
+    {
+      "nombre": "dc",
+      "descripcion": "hbnjhbgvfcdx",
+      "id": 5
+    },
+    {
+      "nombre": "fvfvfvf",
+      "descripcion": "bgbgbgbg",
+      "id": 6
+    },
+    {
+      "nombre": "efef",
+      "descripcion": "fefe",
+      "id": 7
+    },
+    {
+      "nombre": "deded",
+      "descripcion": "eded",
+      "id": 8
+    },
+    {
+      "nombre": "frfrfr",
+      "descripcion": "frftgytfrdederft",
+      "id": 9
+    },
+    {
+      "nombre": "defrf",
+      "descripcion": "gbbgvfc",
+      "id": 10
+    }
+  ]
+}
